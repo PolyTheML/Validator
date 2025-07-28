@@ -1,0 +1,9 @@
+anthropic
+numpy
+opencv-python-headless
+openpyxl
+pandas
+Pillow
+python-dotenv
+requests
+streamlit
